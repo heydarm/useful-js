@@ -28,7 +28,7 @@ console.log("changedObj", changedObj);
 //   name: "John",
 //   pets: {
 //     pet1: {
-//       name: "Pet 1",
+//       name: "Changed Pet 1",
 //       skills: {
 //         skill1: { name: "Pet 1 jump skill" },
 //         skill2: { name: "Pet 1 run skill" },
